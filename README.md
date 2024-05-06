@@ -7,13 +7,18 @@ Credits
 
 A special thanks to the creators who made this project possible:
 
-    WHYD for the XInput Injector
+    WydD for the XInput Injector
     Speedkicks and Phidx for designing these effective drills
+WydD Twitter 
+https://twitter.com/WydD 
 [        Speedkicks Twitter
-](https://twitter.com/Speedkicks)        
+](https://twitter.com/Speedkicks
+[        WydD Twotter
+](https://twitter.com/WydD )        
 
 [Phidx Twitter
 ](https://twitter.com/PhiDXGames)
+
 Getting Started
 
     Install Python:
