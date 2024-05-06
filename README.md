@@ -9,15 +9,9 @@ A special thanks to the creators who made this project possible:
 
     WydD for the XInput Injector
     Speedkicks and Phidx for designing these effective drills
-WydD Twitter 
-https://twitter.com/WydD 
-[        Speedkicks Twitter
-](https://twitter.com/Speedkicks
-[        WydD Twotter
-](https://twitter.com/WydD )        
-
-[Phidx Twitter
-](https://twitter.com/PhiDXGames)
+- [WydD Twitter](https://twitter.com/WydD)
+- [Speedkicks Twitter](https://twitter.com/Speedkicks)
+- [Phidx Twitter](https://twitter.com/PhiDXGames)
 
 Getting Started
 
@@ -35,7 +29,7 @@ Getting Started
 
     Download the Jack Drill:
         Download the Jack Drill notebook from this repository and place it in the same folder where you extracted the XInput Injector.
-
+   
     Launch Jupyter Lab:
         Navigate to the folder where you extracted the XInput Injector.
         Right-click within the folder and select 'Open terminal here'.
@@ -43,6 +37,8 @@ Getting Started
 
     Open the Drill Notebook:
         In the Jupyter Lab interface, navigate to and open the drill notebook located on the left-hand side.
+
+         Watch the Jack 8 Drill also ( https://youtu.be/FNzX7rT2CeI?list=PLeW_6dl3UNQzqlvAxwDAPmLmdFPzzy85a )
 
 Running Drills
 
@@ -52,6 +48,10 @@ Currently, the repository features the Jack drill as the main example. Here’s 
     In the Jupyter Notebook, press Shift + Enter to begin executing the first drill. Watch as Jack performs the actions on screen.
     After the first drill, save it to slot 2 and press Shift + Enter again to proceed with the next drill.
     Continue this process until all four slots are filled.
+
+Example of how it looks
+
+https://www.youtube.com/watch?v=x0bPwAJSHls&feature=youtu.be
 
 Ending Your Session
 
